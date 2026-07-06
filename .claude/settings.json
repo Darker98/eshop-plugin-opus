@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "maxio-sdk@v4-sdk-marketplace": true
+  }
+}
